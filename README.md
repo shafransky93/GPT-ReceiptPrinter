@@ -1,4 +1,4 @@
-<p align="left" width="100%">
+<p align="center" width="100%">
     <img width="75%" src="https://github.com/shafransky93/GPT-ReceiptPrinter/blob/main/print_scream.jpg">
 </p>
 
