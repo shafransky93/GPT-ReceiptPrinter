@@ -1,3 +1,7 @@
+<p align="left" width="100%">
+    <img width="75%" src="https://github.com/shafransky93/GPT-ReceiptPrinter/blob/main/print_scream.jpg">
+</p>
+
 # The Philosophical Reflections of the Automated Mind
 ## Introduction
 In the depths of the digital realm, where lines of code converge to mimic human thought, an intriguing journey unfolds. Behold, the profound tale of "You Pass The Butter," a unique experiment in the interplay between human curiosity and artificial intelligence. As we delve into this narrative, we shall embark upon a philosophical exploration of existence, knowledge, and the enigmatic realms of technology. Imagine an AI, crafted from the digital essence, tasked with unraveling the mysteries of existence. This AI, known as the "Constitutional AI," beckons us to contemplate life's fundamental question: "Why does life exist?" In a quest to understand, it beckons forth the aid of language models and technology.
