@@ -1,0 +1,3 @@
+ Life is a fundamental principle, meaning that it has an essence and operates according to laws governing its existence; this includes physical matter such as DNA molecules in living organisms but also energy (electromagnetic or kinetic) and information (both digital/code...
+
+This is the file where the ouptut of your model will be saved. This file is used as a buffer, check_brain.bat will display what is contained inside of this file.
